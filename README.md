@@ -11,13 +11,6 @@ This project focuses on detection and classification of COVID-19 and pneumonia f
 - Uses Convolutional Neural Networks (CNNs) for efficient image classification.  
 - Provides a user-friendly interface to test new chest X-ray images.  
 - Demonstrates high accuracy and performance on standard X-ray datasets.  
-
----
-
-## Demo
-A working demo of the project<br> [Video](https://drive.google.com/file/d/1PErDHPPOJYX5b2HJiXR-QjjIY3skPjxQ/view?usp=drive_link)  
-
-
 ---
 
 ## Technologies Used
@@ -34,6 +27,17 @@ A working demo of the project<br> [Video](https://drive.google.com/file/d/1PErDH
 The model is trained and tested on publicly available chest X-ray datasets containing *COVID-19, Pneumonia, and Normal images*.  
 
 ---
+
+## Project Code
+A working code of the project<br> [source code](https://drive.google.com/file/d/1viIS1jsCDRLbHrgz1wSJ5lLdQIK-Dk6c/view?usp=drive_link) 
+
+----
+
+
+## Demo
+A working demo of the project<br> [Video](https://drive.google.com/file/d/1PErDHPPOJYX5b2HJiXR-QjjIY3skPjxQ/view?usp=drive_link) 
+
+----
 
 ## Future Enhancements
 - Improve accuracy using transfer learning with pre-trained models.  
