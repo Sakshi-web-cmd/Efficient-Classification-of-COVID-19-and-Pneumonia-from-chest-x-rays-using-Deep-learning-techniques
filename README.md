@@ -1,0 +1,2 @@
+# Efficient-Classification-of-COVID-19-and-Pneumonia-from-chest-x-rays-using-Deep-learning-techniques
+Developed a deep learning-based image classification model to detect COVID-19, pneumonia, and  normal cases from chest X-ray images. Utilized transfer learning with pre-trained models to achieve high prediction accuracy. Applied data preprocessing techniques including resizing, normalization, and data augmentation  to improve generalization. 
