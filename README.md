@@ -7,10 +7,10 @@ This project focuses on detection and classification of COVID-19 and pneumonia f
 ---
 
 ## Features
-- Detects *COVID-19, **Pneumonia, and **Normal* chest X-rays.  
-- Uses *Convolutional Neural Networks (CNNs)* for efficient image classification.  
-- Provides a *user-friendly interface* to test new chest X-ray images.  
-- Demonstrates *high accuracy and performance* on standard X-ray datasets.  
+- Detects COVID-19, Pneumonia, and Normal chest X-rays.  
+- Uses Convolutional Neural Networks (CNNs) for efficient image classification.  
+- Provides a user-friendly interface to test new chest X-ray images.  
+- Demonstrates high accuracy and performance on standard X-ray datasets.  
 
 ---
 
@@ -21,12 +21,12 @@ A working demo of the project<br> [Video](https://drive.google.com/file/d/1PErDH
 ---
 
 ## Technologies Used
-- *Python*
+- Python
 - Deep Learning/CNN
-- *TensorFlow / Keras*  
-- *OpenCV* (for image preprocessing)  
-- *NumPy & Pandas* (data handling)  
-- *Matplotlib / Seaborn* (visualization)  
+- TensorFlow / Keras  
+- OpenCV (for image preprocessing)  
+- NumPy & Pandas (data handling)  
+- Matplotlib / Seaborn (visualization)  
 
 ---
 
@@ -36,8 +36,8 @@ The model is trained and tested on publicly available chest X-ray datasets conta
 ---
 
 ## Future Enhancements
-- Improve accuracy using *transfer learning with pre-trained models*.  
-- Develop a *web-based interface* for doctors to upload and classify X-ray images.  
-- Expand the project to *segment affected areas of the lungs* using masked images, allowing visualization of exactly which parts of the chest are impacted by COVID-19 or Pneumonia.
+- Improve accuracy using transfer learning with pre-trained models.  
+- Develop a web-based interface for doctors to upload and classify X-ray images.  
+- Expand the project to segment affected areas of the lungs using <strong>masked images</strong>, allowing visualization of exactly which parts of the chest are impacted by COVID-19 or Pneumonia.
 
 
