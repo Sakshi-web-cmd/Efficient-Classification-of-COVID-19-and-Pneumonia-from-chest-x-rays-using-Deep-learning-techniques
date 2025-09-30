@@ -15,7 +15,7 @@ This project focuses on detection and classification of COVID-19 and pneumonia f
 ---
 
 ## Demo
-A working demo of the project can be found [Video](https://drive.google.com/file/d/1PErDHPPOJYX5b2HJiXR-QjjIY3skPjxQ/view?usp=drive_link)  
+A working demo of the project<br> [Video](https://drive.google.com/file/d/1PErDHPPOJYX5b2HJiXR-QjjIY3skPjxQ/view?usp=drive_link)  
 
 
 ---
